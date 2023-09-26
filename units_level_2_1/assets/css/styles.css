@@ -1,0 +1,74 @@
+* {
+    /* margin: 0;
+    padding: 0; */
+    box-sizing: border-box;
+}
+
+html {
+    font-family: sans-serif;
+}
+
+ul {
+    list-style-type: none;
+}
+
+/* body {
+    padding: 10px;
+} */
+
+/* h1 {
+    padding-bottom: 20px;
+} */
+
+/* p {
+    padding-bottom: 10px;
+} */
+
+/* section {   
+    padding: 20px;
+    "\1F431" katze
+} */
+
+/* @counter-style repeating-emoji {
+    system: cyclic;
+    symbols: "\1F436";
+    suffix: " ";
+}
+
+.repeating-counter-rule {
+    list-style-type: repeating-emoji;
+} */
+
+.dog {
+    list-style-type: "\1F436";
+}
+
+.cat {
+    list-style-type: "\1F63C";
+}
+
+.parrot {
+    list-style-type: "\1F99C";
+}
+
+.snake {
+    list-style-type: "\1F40D";
+}
+
+.lizzard {
+    list-style-type: "\1F98E";
+}
+
+ul {
+    padding-inline-start: 1.2em;
+}
+
+ul li {
+    font-size: 0.8em;
+    line-height: 1.5em;
+}
+
+.pets {
+    border: 2px solid #000;
+    font-size: 1rem;
+}
